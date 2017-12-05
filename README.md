@@ -11,6 +11,8 @@ This repository is a space for developing and executing a bite-sized project con
 Add your name to [this issue](https://github.com/LSSTDESC/hackdeblend/issues/2) if you would like to collaborate on this project.
 
 * [Alex Malz](https://github.com/aimalz) (NYU)
+* [Javier Sanchez](https://github.com/fjaviersanchez) (UCI)
+* [Erin Sheldon](https://github.com/esheldon) (BNL)
 * [David Kirkby](https://github.com/dkirkby) (UCI)
 * Add your name here!
 * The Deblending Task Force
